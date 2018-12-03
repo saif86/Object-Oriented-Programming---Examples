@@ -27,3 +27,16 @@ Example codes for OOP concepts
   * [CPP-Storage-Class](https://github.com/saif86/CPP-Storage-Class)
    
   * [CPP-Enumerations](https://github.com/saif86/CPP-Enumerations)
+---
+## Defining classes in CPP - Examples
+  * [Distance](https://github.com/saif86/Distance---CPP-Class)
+  
+  * [Person](https://github.com/saif86/Person---CPP-Class)
+  
+  * [IceCream-Cone](https://github.com/saif86/IceCreamCone---CPP-Class)
+   
+  * [Rational-Numbers](https://github.com/saif86/Rational-Numbers---Operator-Overloading)
+  
+  * [Student](https://github.com/saif86/Student-case-study---UML-Class-Diagram-to-CPP-Code)
+   
+  * [Toll-Plaza](https://github.com/saif86/Toll-Plaza---CPP-class/blob/master/Source.cpp)
