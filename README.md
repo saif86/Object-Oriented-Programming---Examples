@@ -35,8 +35,6 @@ Example codes for OOP concepts
   
   * [IceCream-Cone](https://github.com/saif86/IceCreamCone---CPP-Class)
    
-  * [Rational-Numbers](https://github.com/saif86/Rational-Numbers---Operator-Overloading)
-  
   * [Student](https://github.com/saif86/Student-case-study---UML-Class-Diagram-to-CPP-Code)
    
-  * [Toll-Plaza](https://github.com/saif86/Toll-Plaza---CPP-class/blob/master/Source.cpp)
+  * [Toll-Plaza](https://github.com/saif86/Toll-Plaza---CPP-class)
