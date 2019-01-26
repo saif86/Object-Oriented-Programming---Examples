@@ -65,8 +65,6 @@ Example codes for OOP concepts
   
   * [Multi-level Inheritance](https://github.com/saif86/DeepCopy-Multi-level-Inheritance)
    
-  * [Complex Numbers](https://github.com/saif86/Complex-Numbers---Operator-Overloading)
-  
   * [Pakfood Internationals Case study (Task 3&4)](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
   
   * [Banking System (Task 2)](https://github.com/saif86/UML-class-diagram---Banking-System)
