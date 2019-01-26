@@ -47,7 +47,7 @@ Example codes for OOP concepts
 ## Aggregations in CPP - Examples
   * [Room with Chairs aggregation](https://github.com/saif86/Aggregation---CPP-Class)
   
-  * [Pakfood Internationals Case study](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
+  * [Pakfood Internationals Case study (Task 3)](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
 ---
 ## Operator Overloading in CPP - Examles
   * [Rational Numbers](https://github.com/saif86/Rational-Numbers---Operator-Overloading)
