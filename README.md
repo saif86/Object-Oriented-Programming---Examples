@@ -43,3 +43,8 @@ Example codes for OOP concepts
   * [Employee class composed of Date and Address classes](https://github.com/saif86/Composition---CPP-Class)
   
   * [Employee Case study](https://github.com/saif86/Employee---CPP-Class)
+    ---
+## Aggregations in CPP - Examples
+  * [Room with Chairs aggregation](https://github.com/saif86/Aggregation---CPP-Class)
+  
+  * [Pakfood Internationals Case study](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
