@@ -72,3 +72,16 @@ Example codes for OOP concepts
   * [Painting <-- FamousPainting](https://github.com/saif86/Protected-members-in-CPP)
   
   * [Employee Case study (Task 2&3)](https://github.com/saif86/Employee---CPP-Class)
+---
+## Generic Programming in CPP - Examles
+  * [yet to come](https://github.com/saif86/Rational-Numbers---Operator-Overloading)  
+---
+## Case Studies in CPP - Examles
+  * [Student](https://github.com/saif86/Student-case-study---UML-Class-Diagram-to-CPP-Code)
+   
+  * [Date](https://github.com/saif86/Date---CPP-Class)
+  
+  * [Employee](https://github.com/saif86/Employee---CPP-Class)
+  
+  * [Pakfood Internationals](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
+  
