@@ -59,3 +59,18 @@ Example codes for OOP concepts
   * [Pakfood Internationals Case study (Task 2)](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
   
   * [Time Case study (Task 2)](https://github.com/saif86/Time---CPP-Class)
+---
+## Inheritance in CPP - Examles
+  * [Inheritance from Person & Shape class](https://github.com/saif86/Inheritance-CPP)
+  
+  * [Multi-level Inheritance](https://github.com/saif86/DeepCopy-Multi-level-Inheritance)
+   
+  * [Complex Numbers](https://github.com/saif86/Complex-Numbers---Operator-Overloading)
+  
+  * [Pakfood Internationals Case study (Task 3&4)](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
+  
+  * [Banking System (Task 2)](https://github.com/saif86/UML-class-diagram---Banking-System)
+  
+  * [Painting <-- FamousPainting](https://github.com/saif86/Protected-members-in-CPP)
+  
+  * [Employee Case study (Task 2&3)](https://github.com/saif86/Employee---CPP-Class)
