@@ -38,3 +38,8 @@ Example codes for OOP concepts
   * [Student](https://github.com/saif86/Student-case-study---UML-Class-Diagram-to-CPP-Code)
    
   * [Toll-Plaza](https://github.com/saif86/Toll-Plaza---CPP-class)
+  ---
+## Compositions in CPP - Examples
+  * [Employee class composed of Date and Address classes](https://github.com/saif86/Composition---CPP-Class)
+  
+  * [Employee Case study](https://github.com/saif86/Employee---CPP-Class)
