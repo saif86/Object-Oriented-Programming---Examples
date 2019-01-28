@@ -59,6 +59,8 @@ Example codes for OOP concepts
   * [Pakfood Internationals Case study (Task 2)](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
   
   * [Time Case study (Task 2)](https://github.com/saif86/Time---CPP-Class)
+  
+  * [Counter - Unary Operators](https://github.com/saif86/Counter---Unary-Operator-Overloading)
 ---
 ## Inheritance in CPP - Examles
   * [Inheritance from Person & Shape class](https://github.com/saif86/Inheritance-CPP)
