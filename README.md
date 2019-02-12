@@ -49,7 +49,7 @@ Example codes for OOP concepts
   
   * [Pakfood Internationals Case study (Task 3)](https://github.com/saif86/Pakfood-Internationals---OOP-Case-Study)
 ---
-## Operator Overloading in CPP - Examles
+## Operator Overloading in CPP - Examples
   * [Rational Numbers](https://github.com/saif86/Rational-Numbers---Operator-Overloading)
    
   * [Complex Numbers](https://github.com/saif86/Complex-Numbers---Operator-Overloading)
@@ -62,7 +62,7 @@ Example codes for OOP concepts
   
   * [Counter - Unary Operators](https://github.com/saif86/Counter---Unary-Operator-Overloading)
 ---
-## Inheritance in CPP - Examles
+## Inheritance in CPP - Examples
   * [Inheritance from Person & Shape class](https://github.com/saif86/Inheritance-CPP)
   
   * [Multi-level Inheritance](https://github.com/saif86/DeepCopy-Multi-level-Inheritance)
@@ -74,8 +74,10 @@ Example codes for OOP concepts
   * [Painting <-- FamousPainting](https://github.com/saif86/Protected-members-in-CPP)
   
   * [Employee Case study (Task 2&3)](https://github.com/saif86/Employee---CPP-Class)
+  
+  * [Collection-Set - Private Inheritance](https://github.com/saif86/Collection-Set---Private-Inheritance)
 ---
-## Generic Programming in CPP - Examles
+## Generic Programming in CPP - Examples
   * [yet to come](https://github.com/saif86/Rational-Numbers---Operator-Overloading)  
 ---
 ## Case Studies in CPP - Examles
