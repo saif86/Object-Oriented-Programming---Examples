@@ -61,7 +61,7 @@ Example codes for OOP concepts
   * [Time Case study (Task 2)](https://github.com/saif86/Time---CPP-Class)
   
   * [Counter - Unary Operators](https://github.com/saif86/Counter---Unary-Operator-Overloading)
----
+
 ## Inheritance in CPP - Examples
   * [Inheritance from Person & Shape class](https://github.com/saif86/Inheritance-CPP)
   
@@ -76,10 +76,10 @@ Example codes for OOP concepts
   * [Employee Case study (Task 2&3)](https://github.com/saif86/Employee---CPP-Class)
   
   * [Collection-Set - Private Inheritance](https://github.com/saif86/Collection-Set---Private-Inheritance)
----
+
 ## Generic Programming in CPP - Examples
   * [yet to come](https://github.com/saif86/Rational-Numbers---Operator-Overloading)  
----
+
 ## Case Studies in CPP - Examles
   * [Student](https://github.com/saif86/Student-case-study---UML-Class-Diagram-to-CPP-Code)
    
