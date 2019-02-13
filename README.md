@@ -76,6 +76,8 @@ Example codes for OOP concepts
   * [Employee Case study (Task 2&3)](https://github.com/saif86/Employee---CPP-Class)
   
   * [Collection-Set - Private Inheritance](https://github.com/saif86/Collection-Set---Private-Inheritance)
+  
+  * [Specialization(Restriction) - Private Inheritance](https://github.com/saif86/Specialization-using-Private-Inheritance)
 
 ## Generic Programming in CPP - Examples
   * [yet to come](https://github.com/saif86/Rational-Numbers---Operator-Overloading)  
